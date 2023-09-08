@@ -1,4 +1,4 @@
-# myapp
+# Instagram Clone Using Flutter
 
 A new Flutter project.
 
